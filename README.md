@@ -8,7 +8,7 @@ A Todos Application in react native expo
 
 To deploy this project run
 
-```bash
+```javascript
   cd projectname
   npm install
   npm start
@@ -19,21 +19,13 @@ To deploy this project run
 Here is the Application demo
 
 ![App Screenshot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NiNDM2OWE3N2I2NzY3OTY3ZmMyMDI1YzUzNDQ0NTFmMDExMzA5NSZjdD1n/bYcNz4YMM9LeE4gEfa/giphy.gif)
+
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
+- Add new todo
+- delete todo on tap
+- keyboard dismiss on-tap on screen 
+- scroll control with flex box.
 
 
 ## Innitial values
